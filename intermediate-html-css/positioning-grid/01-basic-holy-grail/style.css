@@ -10,9 +10,9 @@ html {
   padding: 16px;
   box-sizing: border-box;
   display: grid;
-  grid-template-columns: 400px 1460px;
+  grid-template-columns: 400px 1000px;
   grid-template-rows: 100px 100px 500px 100px;
-  grid-gap: 16px;
+  grid-gap: 15px;
 }
 
 .container div {
